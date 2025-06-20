@@ -6,3 +6,4 @@ router.get('/ejercicios',(req, res)=>{
 
 })
 module.exports=router
+
